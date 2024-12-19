@@ -8,3 +8,7 @@ DAY 1 - Membuat tampilan untuk rancangan penambahan fitur permohonan pengajuan m
 
 DAY 2 - Membuat flowchart, dan database master.
 
+DAY 3 - Perancangan untuk membuat Use Case Diagram
+
+DAY 4 - Pembuatan Use Case Diagram
+
