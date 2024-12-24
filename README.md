@@ -15,3 +15,5 @@ DAY 4 - Pembuatan Use Case Diagram
 DAY 5 - Perancangan Activity Diagram
 
 DAY 6 - Pembuatan Activity Diagram
+
+DAY 7 - Pembuatan Activity Diagram
