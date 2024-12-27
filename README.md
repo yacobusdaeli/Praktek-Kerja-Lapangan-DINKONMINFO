@@ -17,3 +17,5 @@ DAY 5 - Perancangan Activity Diagram
 DAY 6 - Pembuatan Activity Diagram
 
 DAY 7 - Pembuatan Activity Diagram
+
+DAY 8 - Percobaan pembuatan Controller, Model, View Permohonan Magang
