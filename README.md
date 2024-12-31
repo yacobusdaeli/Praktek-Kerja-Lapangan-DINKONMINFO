@@ -21,3 +21,5 @@ DAY 7 - Pembuatan Activity Diagram
 DAY 8 - Percobaan pembuatan Controller, Model, View Permohonan Magang
 
 DAY 9 - Percobaan pembuatan Controller, Model, View Permohonan Magang
+
+DAY 10 - Percobaan pembuatan Controller, Model, View Permohonan Magang
