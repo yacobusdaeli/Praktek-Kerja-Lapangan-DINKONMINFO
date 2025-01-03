@@ -25,3 +25,5 @@ DAY 9 - Percobaan pembuatan Controller, Model, View Permohonan Magang
 DAY 10 - Percobaan pembuatan Controller, Model, View Permohonan Magang
 
 DAY 11 - Percobaaan Pembuatan Controller, Model, View Permohonan Magang
+
+DAY 12 - Pembuatan Controller, Model, View untuk fitur Permohonan Magang
