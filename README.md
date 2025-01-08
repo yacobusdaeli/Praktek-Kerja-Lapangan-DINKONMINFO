@@ -31,3 +31,5 @@ DAY 12 - Pembuatan Controller, Model, View untuk fitur Permohonan Magang
 DAY 13 - Pembuatan Controller Perngajuan Magang
 
 DAY 14 - Pembuatan Model Pengajuan Magang
+
+DAY 15 - Pembuatan Model View Pengajuan Magang
