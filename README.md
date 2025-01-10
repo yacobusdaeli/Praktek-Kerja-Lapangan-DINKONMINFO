@@ -35,3 +35,7 @@ DAY 14 - Pembuatan Model Pengajuan Magang
 DAY 15 - Pembuatan Model View Pengajuan Magang
 
 DAY 16 - Percobaan Pembuatan Controller Pengajuan Magang
+
+DAY 17 - Percobaan Pembuatan Model Statistik Pengajuan Magang
+
+DAY 20 - Presentasi Project 
