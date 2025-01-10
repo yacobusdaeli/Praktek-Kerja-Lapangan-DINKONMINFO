@@ -1,5 +1,7 @@
--Layanan Kominfo 2024 Permohonan Pengajuan Magang dan Statistik Permohonan Pengajuan Magang
-[Praktek Kerja Lapangan di Dinas Komunikasi dan Informatika Kabupaten Purbalingga]
+# Layanan Kominfo 2024 Permohonan Pengajuan Magang dan Statistik Permohonan Pengajuan Magang
+
+
+## [Praktek Kerja Lapangan di Dinas Komunikasi dan Informatika Kabupaten Purbalingga]
 
 DAY 1 - Membuat tampilan untuk rancangan penambahan fitur permohonan pengajuan magang
 
